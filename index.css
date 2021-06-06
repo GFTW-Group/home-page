@@ -1,6 +1,7 @@
 header{
     float:left;
     position: fixed;
+    background-color:white;
 }
 img{
     margin-top:35px;
